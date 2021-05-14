@@ -1,0 +1,64 @@
+﻿  Camera.cpp
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\Camera.cpp(8,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\Camera.cpp(11,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\Camera.cpp(19,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\Camera.cpp(20,11): warning C4305: '=': truncamento de 'double' para 'float'
+  FixedCam.cpp
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\FixedCam.cpp(7,15): warning C4305: '=': truncamento de 'double' para 'float'
+  Input.cpp
+  Main.cpp
+  MovableCam.cpp
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\MovableCam.cpp(6,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\MovableCam.cpp(9,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\MovableCam.cpp(17,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\MovableCam.cpp(18,11): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\MovableCam.cpp(38,14): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\MovableCam.cpp(39,14): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\MovableCam.cpp(44,21): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\MovableCam.cpp(45,23): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+  RotationCam.cpp
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\RotationCam.cpp(7,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\RotationCam.cpp(15,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\RotationCam.cpp(16,11): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\RotationCam.cpp(35,14): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\RotationCam.cpp(36,14): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\RotationCam.cpp(41,21): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\RotationCam.cpp(42,23): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\RotationCam.cpp(48,25): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\RotationCam.cpp(49,19): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\RotationCam.cpp(50,25): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Scene.cpp
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\Scene.cpp(113,6): warning C4101: 'i': variável local não referenciada
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\Scene.cpp(537,29): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\Scene.cpp(544,35): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\Scene.cpp(544,25): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\Scene.cpp(546,21): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\Scene.cpp(550,21): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\Scene.cpp(559,42): warning C4244: 'argumento': conversão de 'GLfloat' para 'GLint', possível perda de dados
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\Scene.cpp(559,34): warning C4244: 'argumento': conversão de 'GLfloat' para 'GLint', possível perda de dados
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\Scene.cpp(598,30): warning C4244: '=': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\Scene.cpp(601,29): warning C4244: '=': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\Scene.cpp(602,28): warning C4244: '=': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\Scene.cpp(603,29): warning C4244: '=': conversão de 'int' para 'GLfloat', possível perda de dados
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\Scene.cpp(770,43): warning C4101: 'i': variável local não referenciada
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\Scene.cpp(893,37): warning C4244: 'argumento': conversão de 'float' para 'GLint', possível perda de dados
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\Scene.cpp(893,29): warning C4244: 'argumento': conversão de 'float' para 'GLint', possível perda de dados
+  ScrollingCam.cpp
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\ScrollingCam.cpp(4,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\ScrollingCam.cpp(7,15): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\ScrollingCam.cpp(15,13): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\ScrollingCam.cpp(16,11): warning C4305: '=': truncamento de 'double' para 'float'
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\ScrollingCam.cpp(35,14): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\ScrollingCam.cpp(36,14): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\ScrollingCam.cpp(41,21): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\ScrollingCam.cpp(42,23): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\ScrollingCam.cpp(60,25): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\ScrollingCam.cpp(61,19): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\GraphicsProgramming\ScrollingCam.cpp(62,25): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Vector3.cpp
+  Gerando Código...
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB '' não foi encontrado 'SOIL.lib(image_DXT.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'SOIL.pdb' não foi encontrado 'SOIL.lib(image_helper.obj)' ou no 'C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\Debug\SOIL.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB 'SOIL.pdb' não foi encontrado 'SOIL.lib(SOIL.obj)' ou no 'C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\Debug\SOIL.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'SOIL.pdb' não foi encontrado 'SOIL.lib(stb_image_aug.obj)' ou no 'C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\Debug\SOIL.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+  GraphicsProgramming.vcxproj -> C:\Users\jlobo\OneDrive\Documentos\TEMP\GraphicsProgramming\GraphicsProgramming\Debug\GraphicsProgramming.exe
